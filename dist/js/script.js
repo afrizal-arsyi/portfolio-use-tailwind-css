@@ -1,8 +1,3 @@
-function bukaytml() {
-  const yt = 'https://www.youtube.com/@MobileLegends5v5MOBA';
-  window.location.href = yt;
-}
-
 // navbar
 
 window.onscroll = function () {
